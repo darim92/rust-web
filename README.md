@@ -1,3 +1,3 @@
 # Simple Webservice written in Rust with Rocket
 
-Simple Webservice written in Rust using rocket.rs with optimized docker image.
+Simple Webservice written in Rust using rocket.rs + optimized Dockerfile.
